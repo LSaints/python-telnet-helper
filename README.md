@@ -1,2 +1,10 @@
-# python-telnet-helper
-Um conjunto de funções em Python para facilitar a interação e depuração de conexões Telnet. Útil para enxergar melhor o que está sendo executado e tornar o uso do Telnet mais transparente e legível durante testes ou automações.
+# Telnet Helper (Python)
+
+Um helper simples e assíncrono feito em Python para facilitar conexões Telnet, com suporte a autenticação e execução de comandos.  
+Ideal para scripts de automação, testes rápidos ou depuração.
+
+## Instalação
+
+```bash
+pip install telnetlib3
+    
